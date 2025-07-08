@@ -1,1 +1,4 @@
-# Yash-Badodekar
+# Rejection Analysis Of Major Casting Defects & Their Remedial Measures
+During my tenure at Belgaum Ferro Cast Pvt Ltd, I led a detailed root cause analysis of recurring casting defects affecting production quality. This involved systematically collecting data, analyzing defect patterns, and collaborating with cross-functional teams on the shop floor. The analysis revealed inconsistencies in manual ramming techniques as a major contributor to the issues. In response, I implemented targeted remedial measures aimed at improving material handling and process control, which significantly reduced defect rates and rework.
+
+To further address the root cause, I conceptualized, designed, and developed a prototype Pneumatic Ramming Machine to standardize the ramming process. This innovation enhanced mold consistency, reduced dependency on operator skill, and minimized human error. The successful deployment of the prototype not only improved casting quality but also contributed to greater efficiency and continuous improvement within the foundry's manufacturing operations.
